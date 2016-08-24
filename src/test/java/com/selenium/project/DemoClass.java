@@ -15,6 +15,7 @@ public class DemoClass {
 			driver.get("https://www.google.co.in/");
 			driver.manage().window().maximize();
 			System.out.println("Testing the change made test.. done");
+			System.out.println("Change has been done");
 		}
 	}
 
