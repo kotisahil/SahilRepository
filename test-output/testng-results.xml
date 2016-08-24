@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="848" started-at="2016-08-22T11:41:59Z" finished-at="2016-08-22T11:42:00Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="848" started-at="2016-08-22T11:41:59Z" finished-at="2016-08-22T11:42:00Z">
+      <class name="com.excel.poi.ExcelTest">
+        <test-method status="PASS" signature="test1(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.excel.poi.ExcelTest@5a4a6010]" name="test1" duration-ms="16" started-at="2016-08-22T17:12:00Z" data-provider="myDP" finished-at="2016-08-22T17:12:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Delhi]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Jaipur]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[15/09/2016]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[9]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[B]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[J]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+      </class> <!-- com.excel.poi.ExcelTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
