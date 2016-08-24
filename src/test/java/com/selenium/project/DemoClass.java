@@ -14,7 +14,7 @@ public class DemoClass {
 			WebDriver driver=new FirefoxDriver();
 			driver.get("https://www.google.co.in/");
 			driver.manage().window().maximize();
-			System.out.println("Testing the change made test..");
+			System.out.println("Testing the change made test.. done");
 		}
 	}
 
